@@ -107,7 +107,7 @@ const config = {
             items: [
               {
                 label: 'punch3(coming soon)',
-                href: 'https:/www.punch3.xyz',
+                href: 'https://www.punch3.xyz',
               },
             ],
           },
