@@ -157,6 +157,7 @@ sidebar_position: 4
 
 <img width="1020" alt="image" src="https://user-images.githubusercontent.com/108520897/232535575-a1802de6-b18c-4a96-a0d4-84999cc6945a.png" />
 
+
 ***
 
 该篇介绍了趋势和趋势线的概念，以及如何画出上升/下降趋势线和上升/下降通道。同时，还提到了扇形线和X线，并解释了它们的支撑和阻力作用。在实际应用中，我们应该根据市场的特点来灵活应用这些方法。
