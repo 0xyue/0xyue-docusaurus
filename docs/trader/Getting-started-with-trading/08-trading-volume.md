@@ -28,6 +28,9 @@ sidebar_position: 9
 
 成交量指的是一定时间范围内成交的数量。理论基础是构成技术分析的躯体，成交量就是这个躯体的灵魂。从图中我们可以看到，k线下方相对应的绿色和红色主体就是成交量。绿色代表当天是绿色k线说明上涨，红色代表当天是红色k线说明下跌，那颜色并没有什么特殊含义，它只是和k线相同。成交量的高度代表当天成交金额的量，如果这个柱体很长，说明当天的成交量很大，如果柱体很小则说明当天的成交量很小。
 
+<img width="1019" alt="image" src="https://user-images.githubusercontent.com/108520897/233787471-cc8c5984-709d-456e-8a81-fb78dc3ecafd.png" />
+
+
 ## 成交量的基本要点
 
 ### 成交量是双向的
@@ -41,10 +44,25 @@ sidebar_position: 9
 
 量价同步指的是当价格上升时，成交量也相应的放大，那当价格下跌时成交量也相应的缩小。
 
+<img width="1020" alt="image" src="https://user-images.githubusercontent.com/108520897/233787497-1953770d-80fe-48f5-a953-0a64f85f72d6.png" />
+
 
 ## 量价背离
 
 量价背离指的是成交量和价格的走势不一致，具体可以分为价升量缩，价升量平，价平量缩这三种情况。通常量价背离之后很有可能会发生反转。
+
+- 价升量缩
+
+<img width="1031" alt="image" src="https://user-images.githubusercontent.com/108520897/233787538-3dd59f2e-bf0c-4b8c-a472-b09c5a6f606a.png" />
+
+- 价升量平
+
+<img width="1028" alt="image" src="https://user-images.githubusercontent.com/108520897/233787576-a69ba549-3449-4d79-9209-bd7d6458a85d.png" />
+
+
+- 价平量缩
+
+<img width="1021" alt="image" src="https://user-images.githubusercontent.com/108520897/233787601-ea718429-98f3-4a59-85a0-fb55b6bee39b.png" />
 
 
 *** 
